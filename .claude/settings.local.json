@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(npx create-next-app@14 \"C:\\\\Users\\\\User\\\\Documents\\\\studymate-temp\" --typescript --tailwind --eslint --app --src-dir --no-import-alias --yes 2>&1)"
+    ]
+  }
+}
